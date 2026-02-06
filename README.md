@@ -1,2 +1,0 @@
-# Red-painel
-PAINEL PARA JOGO DE TIRO 
